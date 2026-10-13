@@ -1,8 +1,9 @@
 # docs-voice
 
-How I want docs and READMEs to read. It comes from my own READMEs from
-before AI tools, FluentBlazorRouter and MScript. Give it to anyone, person or
-model, who writes docs for my projects.
+How I want docs and READMEs to read. It comes from my own writing from
+before AI tools: the READMEs of FluentBlazorRouter and MScript, and part of
+a book I wrote. Give it to anyone, person or model, who writes docs for my
+projects.
 
 ## The voice
 
