@@ -2,7 +2,9 @@
 
 How I want docs and READMEs to read. It comes from my own writing from
 before AI tools: the READMEs of FluentBlazorRouter and MScript, and part of
-a book I wrote. Give it to anyone, person or model, who writes docs for my
+a book I wrote. It also follows Google's
+[developer documentation style guide](https://developers.google.com/style).
+Give it to anyone, person or model, who writes docs for my
 projects.
 
 ## The voice
