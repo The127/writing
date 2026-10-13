@@ -1,4 +1,4 @@
-# docs-voice
+# writing
 
 How I want text in my projects to read: docs and READMEs, pull requests,
 issues, commit messages, code comments and replies in discussions. Give it
