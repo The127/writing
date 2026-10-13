@@ -17,7 +17,7 @@ Google's [developer documentation style guide](https://developers.google.com/sty
 - Assume the reader comes in cold. Start with the problem in everyday words.
   A concrete example helps.
 - Say what an internal name is before you use it.
-- Keep to one topic. Leave out details nobody asked for, the reader can ask.
+- Keep to one topic. Leave out details nobody asked for. The reader can ask.
 - Before you publish, read the text again as someone who wasn't there.
 
 ## Docs and READMEs
@@ -53,7 +53,7 @@ A pull request description has three parts:
 
 Link the issue it closes. Say which docs you checked, also when none needed
 a change. If the change adds something nobody asked for, say so plainly and
-ask, don't hide it in the description.
+ask. Don't hide it in the description.
 
 ## Issues
 
