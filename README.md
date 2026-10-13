@@ -10,10 +10,17 @@ Google's [developer documentation style guide](https://developers.google.com/sty
 
 ## For everything
 
+Always write for the reader. Everything has to make sense to someone who
+wasn't there.
+
 - Write simple technical English with plain sentence structure.
 - Don't use em dashes or semicolons.
-- Write for the reader: what changed and what it means for them. Leave out
-  lore, narration and how we got there.
+- Say what changed and what it means for the reader. Leave out lore,
+  narration and how we got there.
+- Never mention AI: no reasoning, no thinking out loud, no links to AI
+  sessions.
+- Leave out what only made sense in the conversation: other repositories you
+  looked at, ideas you dropped, names you made up along the way.
 - Assume the reader comes in cold. Start with the problem in everyday words.
   A concrete example helps.
 - Say what an internal name is before you use it.
