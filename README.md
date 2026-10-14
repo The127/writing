@@ -62,6 +62,9 @@ Link the issue it closes. Say which docs you checked, also when none needed
 a change. If the change adds something nobody asked for, say so plainly and
 ask. Don't hide it in the description.
 
+Don't be verbose. Saying "I read the docs and nothing needs to be changed" 
+(for example) when it's obvious is an example of being verbose.
+
 ## Issues
 
 - Start with the problem: what goes wrong, for whom, and when. Paste the
