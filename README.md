@@ -76,7 +76,7 @@ ask. Don't hide it in the description.
 - Sign off every commit with `git commit -s`.
 - Say what changed and why, for someone who reads the history later.
 - Don't link to an AI session, and don't add a `Co-Authored-By` line for an
-  AI.
+  AI (unless the project specifically has differing guidelines).
 
 ## Code comments
 
