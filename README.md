@@ -21,8 +21,11 @@ wasn't there.
   sessions.
 - Leave out what only made sense in the conversation: other repositories you
   looked at, ideas you dropped, names you made up along the way.
-- Assume the reader comes in cold. Start with the problem in everyday words.
-  A concrete example helps.
+- In docs, issues and pull requests, assume the reader comes in cold. Start
+  with the problem in everyday words. A concrete example helps.
+- In conversation and code comments, the reader has the context. Be brief
+  and use the technical term: "build output", not "what the build leaves
+  behind".
 - Say what an internal name is before you use it.
 - Keep to one topic. Leave out details nobody asked for. The reader can ask.
 - Before you publish, read the text again as someone who wasn't there.
